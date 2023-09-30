@@ -24,6 +24,7 @@ Works:<br />
 -Touchscreen+Touchpad+Trackpoint<br />
 -Audio Out+Mic in<br />
 -Power management/Turbo Boost/C-state (idle)<br />
+-Battery/Power/Charging<br />
 -NVMe<br />
 -All shortcuts on keyboard.<br />
 
