@@ -4,7 +4,7 @@ OpenCore 0.9.5 Sonoma EFI for Lenovo Thinkpad X1 Yoga Gen
 Specs:<br />
 -Intel Core i7-7600U<br />
 -HD 620<br />
--16GB LDDR3-2133<br />
+-16GB LPDDR3-2133<br />
 -500GB Samsung 970 Evo Plus NVMe SSD<br />
 -Intel AC-8265 Wifi+Bluetooth<br />
 -Intel I219-LM Ethernet<br />
@@ -44,7 +44,7 @@ Not tested : <br />
 
 BIOS settings :<br />
 -VT-d : off<br />
--DVMT size : 64/128MB<br />
+-DVMT size : 256MB<br />
 -CSM : off<br />
 -boot mode : UEFI only<br />
 -fastboot : off<br />
